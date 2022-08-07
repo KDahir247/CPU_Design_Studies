@@ -1,2 +1,2 @@
 # CPU_Design_Studies
-All my CPU architecture and design study journey.
+All my CPU architecture and design study journey will go here.
